@@ -1,5 +1,4 @@
 public class Shoter  extends  VideoJuegos{
-
     private String nombreShoter;
 
     public Shoter(String dondesejuega, int anioqsalio, String nombreShoter) {

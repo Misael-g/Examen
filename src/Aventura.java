@@ -1,5 +1,4 @@
 public class Aventura  extends  VideoJuegos{
-
     private String nombreAven;
 
     public Aventura(String dondesejuega, int anioqsalio, String nombreAven) {

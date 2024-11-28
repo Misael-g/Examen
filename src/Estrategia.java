@@ -1,5 +1,4 @@
 public class Estrategia  extends  VideoJuegos{
-
     private String nombreEstrateg;
 
     public Estrategia(String dondesejuega, int anioqsalio, String nombreEstrateg) {
